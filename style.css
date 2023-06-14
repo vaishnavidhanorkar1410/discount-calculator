@@ -4,13 +4,6 @@
 body{
     background-color: rgb(247, 237, 219);
 }
-.container{
-    width: 800px;
-    background-color: #0d5c63;
-    margin-left: 450px;
-    margin-top: 300px;
-    border-radius: 10px;
-}
 h2 {
     font-weight: bolder;
     text-align: center;
